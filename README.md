@@ -25,7 +25,7 @@ tepat dalam membeli, menjual, atau mempertahankan saham mereka.
 
 
 B. Metode yang digunakan
- Linear Regresion Dan Random Forest Regresion dan support vector machine
+ Linear Regresion, Random Forest Regresion dan Support vector Regresion
 
 D. Dataseet
 
