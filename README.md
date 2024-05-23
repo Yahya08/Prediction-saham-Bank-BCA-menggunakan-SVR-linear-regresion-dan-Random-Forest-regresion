@@ -26,3 +26,19 @@ tepat dalam membeli, menjual, atau mempertahankan saham mereka.
 
 B. Metode yang digunakan
  Linear Regresion Dan Random Forest Regresion dan support vector machine
+
+D. Dataseet
+
+Kami menggunakan dataset Bank Central Asia Stock Historical Price dari BBCA yang 
+diupdate 1 hari lalu dari tahun 2019.
+https://www.kaggle.com/datasets/caesarmario/bankcentral-asia-stock-historical-price?select=BBCA.JK_monthly.csv. Datasheet tersebut 
+
+memiliki 7 feature yang ada di dalam dataset diantara sebagai berikut:
+ Date : Kolom ini berisi informasi tentang tanggal transaksi.
+ Open : harga awal (harga pembukaan) dari saham.
+ High : harga tertinggi yang dicapai oleh saham selama periode perdagangan.
+ Low : harga terendah yang dicapai oleh saham selama periode perdagangan.
+ Close : harga penutupan dari saham pada hari perdagangan.
+ Adj Close : harga penutupan yang telah disesuaikan untuk memperhitungkan semua 
+perubahan yang terjadi dalam saham tersebut
+ Volume : jumlah saham yang diperdagangkan selama periode waktu tertentu
