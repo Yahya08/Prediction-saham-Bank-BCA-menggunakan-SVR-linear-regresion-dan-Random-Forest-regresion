@@ -1,4 +1,6 @@
 A. Latar Belakang
+
+
 Di era sekarang perkembangan di bidang keuangan sangat begitu pesat Dan
 banyak perusahaan-perusahan melakukan penanam nilai saham, tidak menutup 
 kemungkinan indonesia juga turut melakukan penanaman saham. Banyak faktor eksternal 
@@ -18,5 +20,9 @@ Prediksi harga saham memiliki nilai penting bagi investor dan pelaku pasar untuk
 mengantisipasi arah pergerakan harga di masa mendatang. Dengan memahami tren dan 
 pola yang mendasari pergerakan harga, investor dapat membuat keputusan yang lebih 
 tepat dalam membeli, menjual, atau mempertahankan saham mereka.
+
+
+
+
 B. Metode yang digunakan
  Linear Regresion Dan Random Forest Regresion dan support vector machine
